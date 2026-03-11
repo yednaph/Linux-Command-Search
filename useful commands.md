@@ -1,12 +1,10 @@
-```js
-npx npm-check-updates --target minor
-npx npm-check-updates --upgrade --target minor
-```
-
-File & Directory Manipulation 
+###File & Directory Manipulation### 
 `ls`                            :     Lists directory contents
+
 `cd [directory]`                :     Changes the current working directory
+
 `pwd`                           :     Prints the current working directory path
+
 `mkdir [directory_name]`        :     Creates a new directory
 `mkdir -p`                      :     Creating nested directories for multi-stage simulations (mkdir -p project/run1/dos)
 `touch [filename]`              :     Creates an empty file or updates a file's timestamp
