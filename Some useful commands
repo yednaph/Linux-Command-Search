@@ -1,5 +1,10 @@
+```js
+npx npm-check-updates --target minor
+npx npm-check-updates --upgrade --target minor
+```
+
 File & Directory Manipulation 
-ls                            :     Lists directory contents
+```js ls ```                          :     Lists directory contents
 cd [directory]                :     Changes the current working directory
 pwd                           :     Prints the current working directory path
 mkdir [directory_name]        :     Creates a new directory
